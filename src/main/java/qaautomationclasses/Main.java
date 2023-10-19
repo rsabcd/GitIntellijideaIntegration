@@ -12,5 +12,7 @@ public class Main {
         System.out.println("git-pull example--2");
         System.out.println("edit commit messege");
         System.out.println("edit commit messege 2");
+        System.out.println("edit commit messege 3");
+
     }
 }
