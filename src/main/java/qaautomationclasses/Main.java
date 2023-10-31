@@ -16,7 +16,7 @@ public class Main {
         //hello
         //hello 2
         System.out.println("edit commit messege 4");
-
+        System.out.println("merge conflict demo-2");
 
     }
 }
